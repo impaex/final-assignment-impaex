@@ -1,0 +1,13 @@
+setuptools
+jupyter
+torch
+torchvision
+pytest
+openml
+scikit-learn
+tqdm
+jupyterlab
+matplotlib
+ipywidgets
+seaborn
+grad-cam

@@ -1,0 +1,7 @@
+Model,Config,Test Acc (%),Test Loss,Epochs Trained,Val Acc (%)
+ResNet-18,patience=3,76.31,0.6671,7,78.07
+ResNet-18,patience=6,79.50,0.5858,14,81.46
+ResNet-18,patience=100,81.65,0.5010,20,82.75
+ViT-Base-16,patience=3,75.21,0.6225,20,76.37
+ViT-Base-16,patience=6,75.26,0.6380,20,76.37
+ViT-Base-16,patience=100,74.61,0.6473,20,76.37
